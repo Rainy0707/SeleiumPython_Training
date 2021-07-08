@@ -1,0 +1,12 @@
+from selenium import webdriver
+import time
+
+# open a browser
+driver = webdriver.Chrome()
+# navigate to URL
+driver.get("http://www.google.com")
+time.sleep(4)
+# print the page title
+print(driver.title)
+# close the browser
+driver.quit()
