@@ -1,0 +1,13 @@
+1. Find the second largest number in the given list. Lets assume, list contains only integers
+
+      Input :  List1 = [2,34,65,777,2,1,66,79]
+      Output : 1
+
+      Note: Find the fastest way to get the output.
+
+2. Return a list of all uncommon words from the given string A and B
+      Input:  A = "red green blue red blue yellow"
+              B = "No heart is so hard as the timid heart"
+      Output : [red,blue,heart]
+      
+      Note: Note: A sentence is a string of space-separated words. 
