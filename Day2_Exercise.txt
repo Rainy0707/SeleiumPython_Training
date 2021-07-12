@@ -1,0 +1,17 @@
+1. remove integers from the string and change the lower case to upper and upper to lower
+
+str1 = "Learn12Test3Automation01"
+O/P : "lEARNtESTaUTOMATION"
+
+------------------------------------------------------------------------------------------
+2. check if every vowel is present or not. 
+   We consider a vowel to be present if it is present in upper case or lower case. i.e. ‘a’, ‘e’, ‘i’.’o’, ‘u’ or ‘A’, ‘E’, ‘I’, ‘O’, ‘U’ . 
+   
+   Input : "Test Automation"
+   Output : Accepted
+   Note: All vowels present
+   
+   Input : "Testing"
+   Output : Not Accepted
+   Note: Only  'e' and 'i' are present
+
